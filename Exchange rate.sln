@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exchange rate", "Exchange rate\Exchange rate.csproj", "{30D573B5-FF0F-4029-8784-37427B2DDCA6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30D573B5-FF0F-4029-8784-37427B2DDCA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30D573B5-FF0F-4029-8784-37427B2DDCA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30D573B5-FF0F-4029-8784-37427B2DDCA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30D573B5-FF0F-4029-8784-37427B2DDCA6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D8545860-83B6-4F26-8776-12B2901B3105}
+	EndGlobalSection
+EndGlobal
